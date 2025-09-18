@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @HAEprogramming
-- 👀 I’m interested in CS, dolphins, and teaching.
-- 🌱 I’m currently learning python and pedagogy.
-- 💞️ I’m looking to collaborate on nothing for the current moment.
-- 📫 How to reach me
+# A little about Aaron Edwards
 
-<!---
-HAEprogramming/HAEprogramming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Background
+I am a computer science teacher at Alta High School. I play the string bass, violin, and piano. I am a graduate of Southern Utah University in Psychology. 
+___
+### Family
+1. Robert
+2. Susan
+3. Allie
+4. Ashley
+5. Lexi
+___
+### Favorite Food
+- Chick fil a
+- Popcorn
+- Mahi Mahi
+- 🧄
